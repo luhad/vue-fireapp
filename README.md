@@ -93,3 +93,6 @@ For deploy your future builds, just run:
 ``` bash
 npm run build && firebase deploy
 ```
+
+## License
+This project is licensed under the MIT License
